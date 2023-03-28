@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="114906" started-at="2023-01-05T06:34:05 PST" finished-at="2023-01-05T06:36:00 PST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="114906" started-at="2023-01-05T06:34:05 PST" finished-at="2023-01-05T06:36:00 PST">
+      <class name="com.qa.testng.Test31">
+        <test-method status="PASS" signature="method1()[pri:0, instance:com.qa.testng.Test31@d6da883]" name="method1" is-config="true" duration-ms="17388" started-at="2023-01-05T06:34:05 PST" finished-at="2023-01-05T06:34:23 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:com.qa.testng.Test31@d6da883]" name="method1" duration-ms="10771" started-at="2023-01-05T06:34:23 PST" finished-at="2023-01-05T06:34:34 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:com.qa.testng.Test31@d6da883]" name="method2" duration-ms="59617" started-at="2023-01-05T06:34:34 PST" finished-at="2023-01-05T06:35:33 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="method3()[pri:0, instance:com.qa.testng.Test31@d6da883]" name="method3" duration-ms="24857" started-at="2023-01-05T06:35:33 PST" finished-at="2023-01-05T06:35:58 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method status="PASS" signature="method()[pri:0, instance:com.qa.testng.Test31@d6da883]" name="method" is-config="true" duration-ms="2158" started-at="2023-01-05T06:35:58 PST" finished-at="2023-01-05T06:36:00 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+      </class> <!-- com.qa.testng.Test31 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
